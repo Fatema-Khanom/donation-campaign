@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "Picture": " https://i.ibb.co/Wns8nX8/Health.png",
+        "Title": "Clean Water Project",
+        "Category": "Health",
+        "Category_bg_Color": "#0052FF33",
+        "Card_bg_Color": "#0052FF26",
+        "Text_button_bg_Color": "#0052FF",
+        "Description": "Help provide access to clean and safe drinking water for children in underserved communities. Your support can make a world of difference.",
+        "Price": "$150.00"
+    },
+    {
+        "id": 2,
+        "Picture": "https://i.ibb.co/3dpzs3p/Education.png ",
+        "Title": "Quality Education Initiative",
+        "Category": "Education",
+        "Category_bg_Color": "#FF444933",
+        "Card_bg_Color": "#FF444926",
+        "Text_button_bg_Color": "#FF444A",
+        "Description": "Support our mission to ensure that every child has access to a quality education. Together, we can build a brighter future for the next generation.",
+        "Price": "$200.00"
+    },
+    {
+        "id": 3,
+        "Picture": "https://i.ibb.co/F7bfwTH/Clothing.png ",
+        "Title": "Clothing Drive for Those in Need",
+        "Category": "Clothing",
+        "Category_bg_Color": "#79C23D33",
+        "Card_bg_Color": "#79C23D26",
+        "Text_button_bg_Color": "#79C23F",
+        "Description": "Donate your gently used clothing to help those less fortunate. Your contributions will provide warmth and comfort to individuals in need.",
+        "Price": "$50.00"
+    },
+    {
+        "id": 4,
+        "Picture": "https://i.ibb.co/znJms76/Food.png ",
+        "Title": "Nutrition for All Program",
+        "Category": "Food",
+        "Category_bg_Color": "#F871472F",
+        "Card_bg_Color": "#F8714726",
+        "Text_button_bg_Color": "#F87147",
+        "Description": "Join us in the fight against hunger and malnutrition. Together, we can ensure that everyone has access to nutritious and wholesome food.",
+        "Price": "$100.00"
+    },
+    {
+        "id": 5,
+        "Picture": "https://i.ibb.co/znJms76/Food.png ",
+        "Title": "Community Food Initiative",
+        "Category": "Food",
+        "Category_bg_Color": "#F871472F",
+        "Card_bg_Color": "#F8714726",
+        "Text_button_bg_Color": "#F87147",
+        "Description": "Support our mission to bring better food options to underserved communities. Together, we can create a healthier future for all.",
+        "Price": "$75.00"
+    },
+    {
+        "id": 6,
+        "Picture": "https://i.ibb.co/F7bfwTH/Clothing.png ",
+        "Title": "Clothing Drive for Those in Need",
+        "Category": "Clothing",
+        "Category_bg_Color": "#79C23D33",
+        "Card_bg_Color": "#79C23D26",
+        "Text_button_bg_Color": "#79C23F",
+        "Description": "Donate your gently used clothing to help those less fortunate. Your contributions will provide warmth and comfort to individuals in need.",
+        "Price": "$30.00"
+    },
+    {
+        "id": 7,
+        "Picture": " https://i.ibb.co/3dpzs3p/Education.png",
+        "Title": "Quality Education Initiative",
+        "Category": "Education",
+        "Category_bg_Color": "#FF444933",
+        "Card_bg_Color": "#FF444926",
+        "Text_button_bg_Color": "#FF444A",
+        "Description": "Support our mission to ensure that every child has access to a quality education. Together, we can build a brighter future for the next generation.",
+        "Price": "$180.00"
+    },
+    {
+        "id": 8,
+        "Picture": " https://i.ibb.co/Wns8nX8/Health.png",
+        "Title": "Clean Water Project",
+        "Category": "Health",
+        "Category_bg_Color": "#0052FF33",
+        "Card_bg_Color": "#0052FF26",
+        "Text_button_bg_Color": "#0052FF",
+        "Description": "Help provide access to clean and safe drinking water for children in underserved communities. Your support can make a world of difference.",
+        "Price": "$120.00"
+    },
+    {
+        "id": 9,
+        "Picture": "https://i.ibb.co/Wns8nX8/Health.png ",
+        "Title": "Clean Water Project",
+        "Category": "Health",
+        "Category_bg_Color": "#0052FF33",
+        "Card_bg_Color": "#0052FF26",
+        "Text_button_bg_Color": "#0052FF",
+        "Description": "Help provide access to clean and safe drinking water for children in underserved communities. Your support can make a world of difference.",
+        "Price": "$170.00"
+    },
+    {
+        "id": 10,
+        "Picture": "https://i.ibb.co/3dpzs3p/Education.png ",
+        "Title": "Quality Education Initiative",
+        "Category": "Education",
+        "Category_bg_Color": "#FF444933",
+        "Card_bg_Color": "#FF444926",
+        "Text_button_bg_Color": "#FF444A",
+        "Description": "Support our mission to ensure that every child has access to a quality education. Together, we can build a brighter future for the next generation.",
+        "Price": "$220.00"
+    },
+    {
+        "id": 11,
+        "Picture": "https://i.ibb.co/F7bfwTH/Clothing.png ",
+        "Title": "Clothing Drive for Those in Need",
+        "Category": "Clothing",
+        "Category_bg_Color": "#79C23D33",
+        "Card_bg_Color": "#79C23D26",
+        "Text_button_bg_Color": "#79C23F",
+        "Description": "Donate your gently used clothing to help those less fortunate. Your contributions will provide warmth and comfort to individuals in need.",
+        "Price": "$40.00"
+    },
+    {
+        "id": 12,
+        "Picture": "https://i.ibb.co/znJms76/Food.png ",
+        "Title": "Nutrition for All Program",
+        "Category": "Food",
+        "Category_bg_Color": "#F871472F",
+        "Card_bg_Color": "#F8714726",
+        "Text_button_bg_Color": "#F87147",
+        "Description": "Join us in the fight against hunger and malnutrition. Together, we can ensure that everyone has access to nutritious and wholesome food.",
+        "Price": "$90.00"
+    }
+]
