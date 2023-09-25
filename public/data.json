@@ -1,7 +1,7 @@
 [
     {
-        "id": 1,
-        "Picture": " https://i.ibb.co/Wns8nX8/Health.png",
+        "id": "1",
+        "Picture": "https://i.ibb.co/Wns8nX8/Health.png",
         "Title": "Clean Water Project",
         "Category": "Health",
         "Category_bg_Color": "#0052FF33",
@@ -11,8 +11,8 @@
         "Price": "$150.00"
     },
     {
-        "id": 2,
-        "Picture": "https://i.ibb.co/3dpzs3p/Education.png ",
+        "id": "2",
+        "Picture": "https://i.ibb.co/3dpzs3p/Education.png",
         "Title": "Quality Education Initiative",
         "Category": "Education",
         "Category_bg_Color": "#FF444933",
@@ -22,8 +22,8 @@
         "Price": "$200.00"
     },
     {
-        "id": 3,
-        "Picture": "https://i.ibb.co/F7bfwTH/Clothing.png ",
+        "id": "3",
+        "Picture": "https://i.ibb.co/F7bfwTH/Clothing.png",
         "Title": "Clothing Drive for Those in Need",
         "Category": "Clothing",
         "Category_bg_Color": "#79C23D33",
@@ -33,8 +33,8 @@
         "Price": "$50.00"
     },
     {
-        "id": 4,
-        "Picture": "https://i.ibb.co/znJms76/Food.png ",
+        "id": "4",
+        "Picture": "https://i.ibb.co/znJms76/Food.png",
         "Title": "Nutrition for All Program",
         "Category": "Food",
         "Category_bg_Color": "#F871472F",
@@ -44,19 +44,19 @@
         "Price": "$100.00"
     },
     {
-        "id": 5,
-        "Picture": "https://i.ibb.co/znJms76/Food.png ",
+        "id": "5",
+        "Picture": "https://i.ibb.co/znJms76/Food.png",
         "Title": "Community Food Initiative",
         "Category": "Food",
         "Category_bg_Color": "#F871472F",
-        "Card_bg_Color": "#F8714726",
-        "Text_button_bg_Color": "#F87147",
+        "Card_bg_color": "#F8714726",
+        "Text_button_bg_color": "#F87147",
         "Description": "Support our mission to bring better food options to underserved communities. Together, we can create a healthier future for all.",
         "Price": "$75.00"
     },
     {
-        "id": 6,
-        "Picture": "https://i.ibb.co/F7bfwTH/Clothing.png ",
+        "id": "6",
+        "Picture": "https://i.ibb.co/F7bfwTH/Clothing.png",
         "Title": "Clothing Drive for Those in Need",
         "Category": "Clothing",
         "Category_bg_Color": "#79C23D33",
@@ -66,8 +66,8 @@
         "Price": "$30.00"
     },
     {
-        "id": 7,
-        "Picture": " https://i.ibb.co/3dpzs3p/Education.png",
+        "id": "7",
+        "Picture": "https://i.ibb.co/3dpzs3p/Education.png",
         "Title": "Quality Education Initiative",
         "Category": "Education",
         "Category_bg_Color": "#FF444933",
@@ -77,8 +77,8 @@
         "Price": "$180.00"
     },
     {
-        "id": 8,
-        "Picture": " https://i.ibb.co/Wns8nX8/Health.png",
+        "id": "8",
+        "Picture": "https://i.ibb.co/Wns8nX8/Health.png",
         "Title": "Clean Water Project",
         "Category": "Health",
         "Category_bg_Color": "#0052FF33",
@@ -88,8 +88,8 @@
         "Price": "$120.00"
     },
     {
-        "id": 9,
-        "Picture": "https://i.ibb.co/Wns8nX8/Health.png ",
+        "id": "9",
+        "Picture": "https://i.ibb.co/Wns8nX8/Health.png",
         "Title": "Clean Water Project",
         "Category": "Health",
         "Category_bg_Color": "#0052FF33",
@@ -99,8 +99,8 @@
         "Price": "$170.00"
     },
     {
-        "id": 10,
-        "Picture": "https://i.ibb.co/3dpzs3p/Education.png ",
+        "id": "10",
+        "Picture": "https://i.ibb.co/3dpzs3p/Education.png",
         "Title": "Quality Education Initiative",
         "Category": "Education",
         "Category_bg_Color": "#FF444933",
@@ -110,8 +110,8 @@
         "Price": "$220.00"
     },
     {
-        "id": 11,
-        "Picture": "https://i.ibb.co/F7bfwTH/Clothing.png ",
+        "id": "11",
+        "Picture": "https://i.ibb.co/F7bfwTH/Clothing.png",
         "Title": "Clothing Drive for Those in Need",
         "Category": "Clothing",
         "Category_bg_Color": "#79C23D33",
@@ -121,8 +121,8 @@
         "Price": "$40.00"
     },
     {
-        "id": 12,
-        "Picture": "https://i.ibb.co/znJms76/Food.png ",
+        "id": "12",
+        "Picture": "https://i.ibb.co/znJms76/Food.png",
         "Title": "Nutrition for All Program",
         "Category": "Food",
         "Category_bg_Color": "#F871472F",
