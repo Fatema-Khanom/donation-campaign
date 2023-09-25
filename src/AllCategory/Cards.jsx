@@ -1,4 +1,5 @@
 import React from 'react';
+import swal from 'sweetalert';
 
 const Cards = ({donationCard}) => {
     const {
@@ -12,6 +13,29 @@ const Cards = ({donationCard}) => {
         Price,
         Description,
       } = donationCard || {};
+      const handleAddToDonation=()=>{
+        const addedDonationArray = []
+        const donationItem=JSON.parse(localStorage.getItem("donation"))
+        if(!donationItem){
+            addedDonationArray.push(donationCard)
+            localStorage.setItem('donation',JSON.stringify(addedDonationArray))
+            swal("Good job!", "Donation successfully done!", "success");
+        }
+        else{
+            const isExist = donationItem.find(donationCard=>donationCard.id===id)
+            
+            if(!isExist){
+                addedDonationArray.push(...donationItem,donationCard)
+            localStorage.setItem('donation',JSON.stringify(addedDonationArray))
+            swal("Good job!", "Donation successfully done!", "success");
+            }
+            else{
+                swal("Error!", "No duplicate!", "error");
+            }
+        }
+
+        // localStorage.setItem('test',JSON.stringify())
+      }
       const textStyle ={
         background: Text_button_bg_Color ,
       }
@@ -24,7 +48,7 @@ const Cards = ({donationCard}) => {
                 src={Picture}
                 alt="ui/ux review check"
                 />
-                <button onClick=
+                <button onClick={handleAddToDonation}
                  className='relative -top-16 text-white text-xl 
                 font-semibold left-16 py-2 px-4 rounded'style={textStyle}>Donate {Price}</button>
             </div>
