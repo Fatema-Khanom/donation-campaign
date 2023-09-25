@@ -49,8 +49,8 @@
         "Title": "Community Food Initiative",
         "Category": "Food",
         "Category_bg_Color": "#F871472F",
-        "Card_bg_color": "#F8714726",
-        "Text_button_bg_color": "#F87147",
+        "Card_bg_Color": "#F8714726",
+        "Text_button_bg_Color": "#F87147",
         "Description": "Support our mission to bring better food options to underserved communities. Together, we can create a healthier future for all.",
         "Price": "$75.00"
     },
