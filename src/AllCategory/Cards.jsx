@@ -41,7 +41,7 @@ const Cards = ({donationCard}) => {
       }
     return (
         <div>
-             <div className="relative flex w-10/12 m-auto   flex-col  bg-white my-20 ">
+             <div classNamee="relative flex w-10/12 m-auto   flex-col  bg-white my-20 ">
             <div className="">
                 <img
                 className='w-full'

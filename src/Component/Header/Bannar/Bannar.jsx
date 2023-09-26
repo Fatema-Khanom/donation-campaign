@@ -1,13 +1,14 @@
 
-const Bannar = () => {
-    return (
-        <div>
-            <div className="h-[90vh]  bg-blue-200 -mt-20">
+import React from "react";
+import './Bannar.css'; 
 
-                
-            </div>
-        </div>
-    );
+const Bannar = () => {
+  return (
+    <div className="relative h-[90vh] -mt-20">
+      <div className="absolute top-0 left-0 w-full h-full bg-overlay-image opacity-50"></div>
+      {/* Your content goes here */}
+    </div>
+  );
 };
 
 export default Bannar;

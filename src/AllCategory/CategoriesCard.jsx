@@ -45,7 +45,7 @@ const CategoriesCard = ({ card }) => {
           <img className="h-[250px]" src={Picture} alt="" />
         </div>
         <div className="p-6">
-          <h4 className="font-semibold   "style={categoryStyle} >
+          <h4 className="font-semibold inline-flex px-2 "style={categoryStyle} >
             {Category}
           </h4>
           <p className="mt-3 block font-sans font-bold leading-relaxed text-gray-700 antialiased " style={textStyle}>
