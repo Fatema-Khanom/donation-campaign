@@ -40,7 +40,7 @@ const Cards = ({donationCard}) => {
         background: Text_button_bg_Color ,
       }
     return (
-        <div>
+        <div className=' w-10/12 m-auto mt-20'>
              <div classNamee="relative flex w-10/12 m-auto   flex-col  bg-white my-20 ">
             <div className="">
                 <img
