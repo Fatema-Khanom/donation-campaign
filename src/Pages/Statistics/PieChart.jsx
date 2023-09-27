@@ -1,18 +1,26 @@
-import { Chart } from 'react-google-charts';
+
 import React from 'react';
+import Chart from 'react-google-charts';
+
 
 const PieChart = () => {
     return (
-        <div>
+        <div className='w-10/12 m-auto'>
             <Chart
-            chartType="ScatterChart"
-            data={[["Age", "Weight"], [4, 5.5], [8, 12]]}
-            width="100%"
-            height="400px"
-            legendToggle
+                chartType="PieChart"
+                data={[
+                    ["Category", "Value"], 
+                    ["Your Donation", 5.98],
+                    ["Total Donation", 12],
+                    
+                ]}
+                width="100%"
+                height="400px"
+                legendToggle
             />
         </div>
     );
 };
+
 
 export default PieChart;
